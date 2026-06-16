@@ -37,3 +37,5 @@ An AI-powered web application that analyzes food images and provides estimated n
 ## Project Objective
 
 To help users quickly understand the nutritional content of food items through AI-powered image analysis.
+
+Note: To run this project, create a .env file and add your own Gemini API key.
